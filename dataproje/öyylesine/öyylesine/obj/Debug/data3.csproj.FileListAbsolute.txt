@@ -1,0 +1,7 @@
+C:\Users\Talha Yusuf\Desktop\tahta ödevimsi şeyler\data structures\5230000360--05230000393datastrproje3\öyylesine\öyylesine\bin\Debug\öyylesine.exe.config
+C:\Users\Talha Yusuf\Desktop\tahta ödevimsi şeyler\data structures\5230000360--05230000393datastrproje3\öyylesine\öyylesine\bin\Debug\öyylesine.exe
+C:\Users\Talha Yusuf\Desktop\tahta ödevimsi şeyler\data structures\5230000360--05230000393datastrproje3\öyylesine\öyylesine\bin\Debug\öyylesine.pdb
+C:\Users\Talha Yusuf\Desktop\tahta ödevimsi şeyler\data structures\5230000360--05230000393datastrproje3\öyylesine\öyylesine\obj\Debug\data3.csproj.AssemblyReference.cache
+C:\Users\Talha Yusuf\Desktop\tahta ödevimsi şeyler\data structures\5230000360--05230000393datastrproje3\öyylesine\öyylesine\obj\Debug\data3.csproj.CoreCompileInputs.cache
+C:\Users\Talha Yusuf\Desktop\tahta ödevimsi şeyler\data structures\5230000360--05230000393datastrproje3\öyylesine\öyylesine\obj\Debug\öyylesine.exe
+C:\Users\Talha Yusuf\Desktop\tahta ödevimsi şeyler\data structures\5230000360--05230000393datastrproje3\öyylesine\öyylesine\obj\Debug\öyylesine.pdb
